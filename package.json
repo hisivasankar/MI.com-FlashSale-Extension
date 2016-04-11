@@ -1,0 +1,16 @@
+{
+  "name": "mi-flash-sale-script",
+  "version": "1.0.0",
+  "description": "It can use used to add items to your shopping cart when there is a flash sale in Mi.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flash-sale",
+    "shopping",
+    "mi.com"
+  ],
+  "author": "Sivasankar",
+  "license": "MIT"
+}
