@@ -26,3 +26,6 @@ Note:
 1. Update the css selector for the sale
 2. Copy and paste the script from MiFlashSale.js to console in developer tools.
 3. Now you should see "Add Me"/"Remove Me" buttons accordingly in each item which can be shopped.
+
+
+Made with :sparkling_heart:
